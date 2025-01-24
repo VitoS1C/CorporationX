@@ -4,3 +4,6 @@
 [submodule "Project-service"]
 	path = Project-service
 	url = git@github.com:VitoS1C/Project-service.git
+[submodule "Post-service"]
+	path = Post-service
+	url = git@github.com:VitoS1C/Post-service.git
