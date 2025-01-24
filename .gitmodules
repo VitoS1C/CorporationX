@@ -1,0 +1,3 @@
+[submodule "User-service"]
+	path = User-service
+	url = git@github.com:VitoS1C/User-service.git
