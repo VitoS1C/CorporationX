@@ -7,3 +7,21 @@
 [submodule "Post-service"]
 	path = Post-service
 	url = git@github.com:VitoS1C/Post-service.git
+[submodule "Notification-service"]
+	path = Notification-service
+	url = git@github.com:VitoS1C/Notification-service.git
+[submodule "Analytics_service"]
+	path = Analytics_service
+	url = git@github.com:VitoS1C/Analytics_service.git
+[submodule "infra"]
+	path = infra
+	url = git@github.com:VitoS1C/infra.git
+[submodule "Url-shortener-service"]
+	path = Url-shortener-service
+	url = git@github.com:VitoS1C/Url-shortener-service.git
+[submodule "Achievement_service"]
+	path = Achievement_service
+	url = git@github.com:VitoS1C/Achievement_service.git
+[submodule "Account-service"]
+	path = Account-service
+	url = git@github.com:VitoS1C/Account-service.git
